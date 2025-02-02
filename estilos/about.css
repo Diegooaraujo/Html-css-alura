@@ -97,6 +97,9 @@ body{
     background-color: #272727;
    
 }
+.apresentacao__imagem{
+    width: 50%;
+}
 
 .rodape{
     padding: 24px;
